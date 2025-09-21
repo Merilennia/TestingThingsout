@@ -1,0 +1,8 @@
+body {
+    background: linear-gradient(rgb(9, 11, 69), rgb(45, 50, 184));
+    background-attachment: fixed;
+}
+
+.text {
+    color: azure;
+}
